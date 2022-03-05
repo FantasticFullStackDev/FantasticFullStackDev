@@ -18,7 +18,7 @@
   And I work with 100% client satisfaction.
   Just give me the task and sit back on your chair. All I need is your support and cooperation. I am hoping for a chance to work. <br/>
   &nbsp;Thank you.
-    </p>
+ </p>
 
 ## Skills
 <div align="center">
@@ -62,9 +62,8 @@
   </div>
 </div>
 <br/>
-<b> 🎬 I am ready to start your project immediately.</b>
 ## My Core Skill Stack
-- 💽 <b>Programming Languages</b> : Python, C++/C#, QT, JavaScript, TypeScript, PHP, HTML/HTML5, CSS/SCSS/SASS
+- 💽 <b>Programming Languages</b> : Python, C++/C#, QT, JavaScript, TypeScript, PHP, HTML/HTML5, CSS/SCSS/SASS <br/>
 - 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign
 - 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask
 - 🥇 <b>Top Skill</b> : Blockchain, Web 3D Animation, AR/VR, WebRTC, Machine Learning
