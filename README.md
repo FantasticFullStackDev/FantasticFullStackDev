@@ -24,13 +24,6 @@
     <h3><b>About Me</b></h3>
     <div class="w3-row">
       <div class="w3-col m6" style="padding-left: 50px;">
-        <!-- <p><i class="fa fa-calendar w3-margin-right"></i> <b>Date Of Birth</b>  &nbsp; 31 May 1992</p> -->
-        <!-- <p><i class="fa fa-map-marker w3-margin-right"></i> <b>Location</b>  &nbsp; Toronto, Canada</p> -->
-      <!-- </div>
-      <div class="w3-col m6" style="padding-left: 50px;">
-        <p><i class="fa fa-language w3-margin-right"></i> <b>Chinese</b> &nbsp; Native </p> -->
-        <!-- <p><i class="fa fa-language w3-margin-right"></i> <b>English</b> &nbsp; Fluent </p> -->
-
       </div>
     </div>
     <hr style="width: 80%; border-color: lightgrey;" />
