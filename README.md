@@ -45,7 +45,7 @@
       Just give me the task and sit back on your chair. All I need is your support and cooperation. I am hoping for a chance to work. <br/>
       &nbsp;Thank you.
     </p>
-    <hr>
+    <hr />
     
     <h3 id="skills" class="w3-center"><b>Programing Languages & Tools</b></h3>
     
