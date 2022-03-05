@@ -1,3 +1,4 @@
+<img src="https://github.com/FantasticFullStackDev/jinwang/blob/main/assets/images/avatar_3.png" />
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Senior Web & Blockchain Developer</h2>
 <p align="center"> Specialized in React | NodeJS | Web3JS
 <p>
