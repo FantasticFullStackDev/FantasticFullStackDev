@@ -73,8 +73,6 @@
 - ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman
 - 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
 <br><br>
-## <b>😇 My Github Stats</b>:
-<p align="left"><img src="https://komarev.com/ghpvc/?username=perfectdev000&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
 <p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=perfectdev000&column=7&theme=onedark" alt="perfectdev000" /></p>
   
 </p>
