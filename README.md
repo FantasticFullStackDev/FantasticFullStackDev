@@ -62,15 +62,14 @@
   </div>
 </div>
 <br/>
-## My Core Skill Stack
 - 💽 <b>Programming Languages</b> : Python, C++/C#, QT, JavaScript, TypeScript, PHP, HTML/HTML5, CSS/SCSS/SASS <br/>
-- 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign
-- 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask
-- 🥇 <b>Top Skill</b> : Blockchain, Web 3D Animation, AR/VR, WebRTC, Machine Learning
-- 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
-- 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
-- ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman
-- 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
+- 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign<br/>
+- 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask<br/>
+- 🥇 <b>Top Skill</b> : Blockchain, Web 3D Animation, AR/VR, WebRTC, Machine Learning<br/>
+- 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse<br/>
+- 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database<br/>
+- ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman<br/>
+- 🌧 <b>Gloud Computing</b> : Google, AWS, Azure<br/>
 <br><br>
 <p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=perfectdev000&column=7&theme=onedark" alt="perfectdev000" /></p>
   
