@@ -61,7 +61,7 @@
     <img align="left" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   </div>
 </div>
-<hr/>
+<br/><br/><br/><br/><br/>
 - 💽 <b>Programming Languages</b> : Python, C++/C#, QT, JavaScript, TypeScript, PHP, HTML/HTML5, CSS/SCSS/SASS <br/>
 - 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign<br/>
 - 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask<br/>
