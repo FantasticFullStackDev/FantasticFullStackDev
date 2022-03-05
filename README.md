@@ -1,6 +1,6 @@
 <img src="https://github.com/FantasticFullStackDev/jinwang/blob/main/assets/images/avatar_3.png" width="100%"/>
 <h3><b>About Me</b></h3>
-<hr style="width: 80%; border-color: lightgrey;" />
+<hr />
 <p>
   &nbsp;Hello, My name is Jin. <br/>
   &nbsp;I'm a full stack web developer who have got deep experience of web design and development with Node.js. <br/>
@@ -62,8 +62,6 @@
   </div>
 </div>
 
-<b> 🎬 I am ready to start your project immediately.</b>
-## My Core Skill Stack
 - 💽 <b>Programming Languages</b> : Python, C++/C#, QT, JavaScript, TypeScript, PHP, HTML/HTML5, CSS/SCSS/SASS
 - 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign
 - 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask
