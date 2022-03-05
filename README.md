@@ -49,7 +49,7 @@
     
     <h3 id="skills" class="w3-center"><b>Programing Languages and Tools</b></h3>
     
-    <hr style="border-color: lightgrey;">
+    <hr style="border-color: lightgrey;" />
     <h4> <i class="fa fa-tasks w3-margin-right"></i> Programing Languages </h4>
       <div class="w3-container">
         <code php class="w3-round-xlarge" style="width: 84px; font-size: 66px; margin: 3px; background-color: white;"><img height="80" width="80" style="background-color: white;" src="./assets/images/skills/php.png"></code>
