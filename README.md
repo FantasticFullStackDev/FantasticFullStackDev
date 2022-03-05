@@ -47,7 +47,6 @@
     </p>
     <hr />
     
-    <h3 id="skills" class="w3-center"><b>Programing Languages and Tools</b></h3>
     
     <hr style="border-color: lightgrey;" />
     <h4> <i class="fa fa-tasks w3-margin-right"></i> Programing Languages </h4>
