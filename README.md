@@ -2,7 +2,6 @@
 <h3><b>About Me</b></h3>
 <hr />
 <p>
-  &nbsp;Hello, My name is Jin. <br/>
   &nbsp;I'm a full stack web developer who have got deep experience of web design and development with Node.js. <br/>
   Web site development is in my blood as I have been working as web developer for 9 years.
   Throughout all these precious years I have made myself enrich with a lot of web related skills.
