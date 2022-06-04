@@ -3,16 +3,7 @@
 <hr />
 <p>
   &nbsp;I'm a full stack web developer who have got deep experience of web design and development with Node.js. <br/>
-  Web site development is in my blood as I have been working as web developer for 9 years.
-  Throughout all these precious years I have made myself enrich with a lot of web related skills.
-  I believe in quality and confidence rather than quantity and more money earning policy.
-  I like difficult tasks to prove my ability as a Full stack developer.
-  I am ready to take any kind of challenges in any situation.
-  I always make sure of the quick turnaround of my job as I never disappoint any of my clients.
-  I am expert enough to manage any kind of job environment by coming up with my multitasking expertise.
-  I am honest and hardworking.<br/>&nbsp;
-  I always try to learn new things and update my previous knowledge. I have never exceeded time limits.
-  I am confident that I can carry your tasks efficiently and accurately.
+
   I am committed to my clients and always focus on their respectable needs. 
   And I work with 100% client satisfaction.
   Just give me the task and sit back on your chair. All I need is your support and cooperation. I am hoping for a chance to work. <br/>
