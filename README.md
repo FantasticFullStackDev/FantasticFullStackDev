@@ -1,9 +1,9 @@
-<img src="https://github.com/FantasticFullStackDev/jinwang/blob/main/assets/images/avatar_3.png" width="100%"/>
+<!-- <img src="https://github.com/FantasticFullStackDev/jinwang/blob/main/assets/images/avatar_3.png" width="100%"/> -->
 <h3><b>About Me</b></h3>
 <hr />
 <p>
   &nbsp;I'm a full stack web developer who have got deep experience of web design and development with Node.js. <br/>
-  Web site development is in my blood as I have been working as web developer for 9 years.
+  Web site development is in my blood as I have been working as web developer for several years so far.
   Throughout all these precious years I have made myself enrich with a lot of web related skills.
   I believe in quality and confidence rather than quantity and more money earning policy.
   I like difficult tasks to prove my ability as a Full stack developer.
